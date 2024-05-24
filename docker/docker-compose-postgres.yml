@@ -1,0 +1,18 @@
+version: '3.8'
+
+name: 'postgres_nestjs-final-test'
+
+services:
+  postgres:
+    image: postgres:latest
+    ports:
+      - "${DATABASE_PORT}:5432"
+    environment:
+      POSTGRES_DB: "${DATABASE_NAME}"
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
