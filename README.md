@@ -65,4 +65,4 @@ sudo npm run test:e2e:postgres
 
 ## Conclusion
 
-L'objectif de ce projet est de nous familiariser avec le développement d'une application avec NestJS et un ORM, ici Prisma; tout en assurant que toutes les fonctionnalités requises passent les tests automatisés. Bonne chance et bon codage ! 🚀
+L'objectif de ce projet est de nous familiariser avec le développement d'une application avec NestJS et un ORM, ici Prisma; tout en assurant que toutes les fonctionnalités requises passent les tests automatisés.
