@@ -1,6 +1,6 @@
 
 # Projet NestJS Final
-GROUPE : Lahcen Thibaut Abdouhraman le bogoss
+GROUPE : Lahcen, Thibaut, Abdouhraman
 ## Description
 
 Pour ce test final, vous allez être évalués sur votre maîtrise du framework NestJS. Ce projet, qui est une TodoList et qu'il vous faudra dupliquer (fork), contient un certain nombre de tests automatisés. Chacun d'entre eux couvre une fonctionnalité spécifique : création d'un utilisateur, création d'une tâche, vérification que le serveur renvoie une erreur dans tel ou tel cas, etc.
